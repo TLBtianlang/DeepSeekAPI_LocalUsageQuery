@@ -1,13 +1,9 @@
 # DeepSeekAPI LocalUsageQuery
 
-Obtain the usage information of the DeepSee API locally via Python
-
-在本地通过Python获取DeepSeekAPI的用量信息
-
 ## 说明
 
-- 本项目采用 Python 3.12.0版本
-- 本项目遵循MIT开源协议
+- 本项目采用 Python 3.12.0 版本
+- 本项目遵循 MIT开源协议
 
 ## 配置教程
 
